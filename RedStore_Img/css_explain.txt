@@ -1,0 +1,5 @@
+inline-block is use to put everything in line.
+then we can remove the style of the list using "list style-type" as none
+align-items are use to align the iterms
+google display "flex"
+    
